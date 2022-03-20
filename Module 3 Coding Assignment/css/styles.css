@@ -24,21 +24,22 @@ body {
 /* main */
 #container-title {
     font-size: 2.6em;
-    margin: 15px auto 20px auto;
+    margin: 0 auto 20px auto;
 }
 
-.container-tiles {
+.container-tiles div {
     background-color: #b3b3b3;
-    margin: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
+    min-height: px;
 }
 
 .container-tiles h3 {
-    text-align: center;
     font-size: 2.2em;
     margin-bottom: 10px;
 }
 
 .container-tiles p {
-    font-size: 1.4em;
+    font-size: 1.1em;
     padding: 5px;
 }
